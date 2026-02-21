@@ -14,16 +14,19 @@ p {
   font-size: 18px;
   border: 2px solid;
   border-radius: 20%;
+  border-color:darkcyan;
   padding: 5%
 }
 
 ul {
-  background-color:beige;
+  background-color:whitesmoke;
   padding: 5%;
+  border: 2px solid rgb(172, 255, 234);
+  border-radius: 20%;
 }
 
 .bio {
-  background-color:aqua;
+  background-color:rgb(24, 224, 181);
   border: 2px hidden;
   border-radius: 20%;
 }
@@ -34,3 +37,9 @@ hr {
   height: 4px;
 }
 
+#ronaldmcdonald {
+  width: 30%;
+  height: auto;
+  margin-left: 20%;
+  margine-right: 20%;
+}
