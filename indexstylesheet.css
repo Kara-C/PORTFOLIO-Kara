@@ -10,12 +10,14 @@ h1 {
 }
 
 p {
-  font-family: 'Times New Roman';
   font-size: 18px;
   border: 2px solid;
   border-radius: 20%;
   border-color:darkcyan;
-  padding: 5%
+  padding: 5%;
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 ul {
@@ -24,6 +26,7 @@ ul {
   border: 2px solid rgb(172, 255, 234);
   border-radius: 20%;
 }
+
 
 .bio {
   background-color:rgb(24, 224, 181);
